@@ -4,6 +4,13 @@
 
 ### Patch Changes
 
+- Updated dependencies [dce4158]
+  - ai@4.0.0-canary.4
+
+## 0.0.1-canary.0
+
+### Patch Changes
+
 - ai@4.0.0-canary.3
 
 ## 0.0.1-canary.0
